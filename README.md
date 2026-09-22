@@ -55,15 +55,15 @@ The project consists of the following tables:
 | `restaurant_cuisines` | Cuisine types served by each restaurant |
 | `ratings` | Consumer ratings for restaurants including overall, food and service ratings |
 
-### Database
+## Database
 
-```text
+
 Database Name: restaurant_project
 Database Engine: MySQL
 Number of Tables: 5
 
 
-### 🧠 SQL Concepts Used
+## 🧠 SQL Concepts Used
 
 - **DDL:** `CREATE DATABASE`, `CREATE TABLE`, `ALTER TABLE`
 - **DML:** `SELECT`, `INSERT`
@@ -84,7 +84,7 @@ Number of Tables: 5
 
 ---
 
-### 📊 Top 10 Business Questions Solved
+## 📊 Top 10 Business Questions Solved
 
 1. Which restaurants have received highly satisfactory ratings from consumers?
 
