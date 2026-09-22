@@ -58,9 +58,9 @@ The project consists of the following tables:
 ## Database
 
 
-Database Name: restaurant_project
-Database Engine: MySQL
-Number of Tables: 5
+- Database Name: restaurant_project
+- Database Engine: MySQL
+- Number of Tables: 5
 
 
 ## 🧠 SQL Concepts Used
