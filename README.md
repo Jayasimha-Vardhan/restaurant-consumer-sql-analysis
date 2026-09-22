@@ -63,7 +63,7 @@ Database Engine: MySQL
 Number of Tables: 5
 
 
-## 🧠 SQL Concepts Used
+### 🧠 SQL Concepts Used
 
 - **DDL:** `CREATE DATABASE`, `CREATE TABLE`, `ALTER TABLE`
 - **DML:** `SELECT`, `INSERT`
@@ -84,7 +84,7 @@ Number of Tables: 5
 
 ---
 
-## 📊 Top 10 Business Questions Solved
+### 📊 Top 10 Business Questions Solved
 
 1. Which restaurants have received highly satisfactory ratings from consumers?
 
